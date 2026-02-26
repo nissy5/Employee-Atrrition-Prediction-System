@@ -1,12 +1,23 @@
-# Employee-Atrrition-Prediction-System
+# Employee-Attrition-Prediction-System
 _________________________________________________________________________________________________________________________________________________________
 Employee Attrition Prediction System using Machine Learning to predict whether an employee will leave or stay. Implemented Logistic Regression, Decision Tree, and Random Forest algorithms. Random Forest achieved 87% accuracy. Includes data preprocessing, model evaluation, and model saving for future predictions.
+
+________________________________________________________________________________________________________________________________________________________
+
+Algorithms Used:
+Logistic Regression
+Decision Tree
+Random Forest Classifier
+
+Random Forest achived the best accuracy of 87%
 
 ________________________________________________________________________________________________________________________________________________________
 
 Features:
 Data Preprocessing
 Feature selection
+Model training and evaluation
+Model saving for futher predictions
 Randon Forest Classifier
 Accuracy prediction
 
