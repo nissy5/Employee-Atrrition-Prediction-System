@@ -5,8 +5,8 @@ Employee Attrition Prediction System using Machine Learning to predict whether a
 ________________________________________________________________________________________________________________________________________________________
 
 Algorithms Used:
-Logistic Regression
-Decision Tree
+Logistic Regression,
+Decision Tree,
 Random Forest Classifier
 
 Random Forest achived the best accuracy of 87%
