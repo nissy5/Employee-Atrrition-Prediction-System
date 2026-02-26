@@ -14,12 +14,12 @@ Random Forest achived the best accuracy of 87%
 ________________________________________________________________________________________________________________________________________________________
 
 Features:
-Data Preprocessing
-Feature selection
-Model training and evaluation
-Model saving for futher predictions
-Randon Forest Classifier
-Accuracy prediction
+Data Preprocessing,
+Feature selection,
+Model training and evaluation,
+Model saving for futher predictions,
+Randon Forest Classifier,
+Accuracy prediction,
 
 ________________________________________________________________________________________________________________________________________________________
 
